@@ -441,7 +441,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+  background: url('../images/2517915.jpg') no-repeat; object-fit: cover;
 }
 
 #experience .media-heading {
@@ -535,7 +535,7 @@ a:hover, a:active, a:focus {
 }
 
 #contact .contact-img {
-  background: url('../images/IMG_20221226_112457-removebg\ \(1\)\ \(1\).png') no-repeat;
+  background: url('../images/flippedNew.jpg') no-repeat;
   min-height: 75vh;
 }
 
